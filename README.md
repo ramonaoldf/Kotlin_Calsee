@@ -30,7 +30,7 @@ Follow these steps if you want to get a local copy of the project on your machin
 
 #### 1. Clone or fork the repository by running the command below	
 ```
-git https://github.com/TheAlphamerc/Kotlin_Calsee
+git https://github.com/ramonaoldf/Kotlin_Calsee
 ```
 
 #### 2. Import the project in AndroidStudio, and add API Key
